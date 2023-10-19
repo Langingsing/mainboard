@@ -1,0 +1,203 @@
+Add Component: Footprint Not Found AHOI_LOGO_8MMHEIGHT
+Add Component: Footprint Not Found 1X08
+Add Component: Footprint Not Found JMP_OR_0603
+Add Component: Footprint Not Found TP06SQ
+Add Component: Footprint Not Found SMD-SW-4_5.1x5.1x1.5
+Add Component: Footprint Not Found 1X02
+Add Component: Footprint Not Found 0402_R
+Add Component: Footprint Not Found 0402_R
+Add Component: Footprint Not Found 0402_R
+Add Component: Footprint Not Found 0402_R
+Add Component: Footprint Not Found 0402_R
+Add Component: Footprint Not Found 0402_R
+Add Component: Footprint Not Found JMP_OR_0603
+Add Component: Footprint Not Found NR_FIELD
+Add Component: Footprint Not Found GND_MERGE
+Add Pin To Net: Unknown Pin: Pin COM-1
+Add Pin To Net: Unknown Pin: Pin COM-2
+Add Pin To Net: Unknown Pin: Pin COM-3
+Add Pin To Net: Unknown Pin: Pin COM-4
+Add Pin To Net: Unknown Pin: Pin COM-5
+Add Pin To Net: Unknown Pin: Pin COM-6
+Add Pin To Net: Unknown Pin: Pin COM-7
+Add Pin To Net: Unknown Pin: Pin COM-8
+Add Pin To Net: Unknown Pin: Pin DP-A
+Add Pin To Net: Unknown Pin: Pin DP-C
+Add Pin To Net: Unknown Pin: Pin H-B1-L-1
+Add Pin To Net: Unknown Pin: Pin H-B1-L-2
+Add Pin To Net: Unknown Pin: Pin H-B1-L-3
+Add Pin To Net: Unknown Pin: Pin LD1-1
+Add Pin To Net: Unknown Pin: Pin LD1-2
+Add Pin To Net: Unknown Pin: Pin LD2-1
+Add Pin To Net: Unknown Pin: Pin LD2-2
+Add Pin To Net: Unknown Pin: Pin LD3-1
+Add Pin To Net: Unknown Pin: Pin LD3-2
+Add Pin To Net: Unknown Pin: Pin LD4-1
+Add Pin To Net: Unknown Pin: Pin LD4-2
+Add Pin To Net: Unknown Pin: Pin LD5-1
+Add Pin To Net: Unknown Pin: Pin LD5-2
+Add Pin To Net: Unknown Pin: Pin LDP-1
+Add Pin To Net: Unknown Pin: Pin LDP-2
+Add Pin To Net: Unknown Pin: Pin MCU-P$1
+Add Pin To Net: Unknown Pin: Pin MCU-P$2
+Add Pin To Net: Unknown Pin: Pin MCU-P$3
+Add Pin To Net: Unknown Pin: Pin MCU-P$4
+Add Pin To Net: Unknown Pin: Pin MCU-P$5
+Add Pin To Net: Unknown Pin: Pin MCU-P$6
+Add Pin To Net: Unknown Pin: Pin MCU-P$7
+Add Pin To Net: Unknown Pin: Pin MCU-P$8
+Add Pin To Net: Unknown Pin: Pin MCU-P$9
+Add Pin To Net: Unknown Pin: Pin MCU-P$10
+Add Pin To Net: Unknown Pin: Pin MCU-P$11
+Add Pin To Net: Unknown Pin: Pin MCU-P$12
+Add Pin To Net: Unknown Pin: Pin MCU-P$13
+Add Pin To Net: Unknown Pin: Pin MCU-P$14
+Add Pin To Net: Unknown Pin: Pin MCU-P$15
+Add Pin To Net: Unknown Pin: Pin MCU-P$16
+Add Pin To Net: Unknown Pin: Pin MCU-P$17
+Add Pin To Net: Unknown Pin: Pin MCU-P$18
+Add Pin To Net: Unknown Pin: Pin MCU-P$19
+Add Pin To Net: Unknown Pin: Pin MCU-P$20
+Add Pin To Net: Unknown Pin: Pin MCU-P$21
+Add Pin To Net: Unknown Pin: Pin MCU-P$22
+Add Pin To Net: Unknown Pin: Pin MCU-P$23
+Add Pin To Net: Unknown Pin: Pin MCU-P$24
+Add Pin To Net: Unknown Pin: Pin MCU-P$25
+Add Pin To Net: Unknown Pin: Pin MCU-P$26
+Add Pin To Net: Unknown Pin: Pin MCU-P$27
+Add Pin To Net: Unknown Pin: Pin MCU-P$28
+Add Pin To Net: Unknown Pin: Pin MCU-P$29
+Add Pin To Net: Unknown Pin: Pin MCU-P$30
+Add Pin To Net: Unknown Pin: Pin MCU-P$33
+Add Pin To Net: Unknown Pin: Pin MCU-P$34
+Add Pin To Net: Unknown Pin: Pin MCU-P$35
+Add Pin To Net: Unknown Pin: Pin MCU-P$36
+Add Pin To Net: Unknown Pin: Pin MCU-P$37
+Add Pin To Net: Unknown Pin: Pin MCU-P$38
+Add Pin To Net: Unknown Pin: Pin MCU-P$39
+Add Pin To Net: Unknown Pin: Pin MCU-P$40
+Add Pin To Net: Unknown Pin: Pin MCU-P$41
+Add Pin To Net: Unknown Pin: Pin MCU-P$42
+Add Pin To Net: Unknown Pin: Pin MCU-P$43
+Add Pin To Net: Unknown Pin: Pin MCU-P$44
+Add Pin To Net: Unknown Pin: Pin MCU-P$45
+Add Pin To Net: Unknown Pin: Pin MCU-P$46
+Add Pin To Net: Unknown Pin: Pin MCU-P$49
+Add Pin To Net: Unknown Pin: Pin MCU-P$51
+Add Pin To Net: Unknown Pin: Pin MCU-P$52
+Add Pin To Net: Unknown Pin: Pin MCU-P$55
+Add Pin To Net: Unknown Pin: Pin MCU-P$57
+Add Pin To Net: Unknown Pin: Pin MCU-P$58
+Add Pin To Net: Unknown Pin: Pin MCU-P$59
+Add Pin To Net: Unknown Pin: Pin MCU-P$60
+Add Pin To Net: Unknown Pin: Pin MCU-P$61
+Add Pin To Net: Unknown Pin: Pin MCU-P$62
+Add Pin To Net: Unknown Pin: Pin PE-TP
+Add Pin To Net: Unknown Pin: Pin PRG-P$1
+Add Pin To Net: Unknown Pin: Pin PRG-P$2
+Add Pin To Net: Unknown Pin: Pin PWR-1
+Add Pin To Net: Unknown Pin: Pin PWR-2
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin RP-1
+Add Pin To Net: Unknown Pin: Pin RP-2
+Add Pin To Net: Unknown Pin: Pin RP-3
+Add Pin To Net: Unknown Pin: Pin U$2-P$1
+Add Pin To Net: Unknown Pin: Pin U$2-P$2
+Add Class Member: Failed to add class member : Component AHOI.MB v7.0
+Added Member To Class: ClassName=mainboard Member=Component C1 100n
+Added Member To Class: ClassName=mainboard Member=Component C2 100n
+Added Member To Class: ClassName=mainboard Member=Component C3 100n
+Added Member To Class: ClassName=mainboard Member=Component C4 100n
+Added Member To Class: ClassName=mainboard Member=Component C5 100n
+Added Member To Class: ClassName=mainboard Member=Component C6 4u7 (3V3)
+Added Member To Class: ClassName=mainboard Member=Component C7 1u (3V3)
+Added Member To Class: ClassName=mainboard Member=Component C8 100n
+Added Member To Class: ClassName=mainboard Member=Component C9 4u7 (3V3)
+Added Member To Class: ClassName=mainboard Member=Component C10 100n
+Added Member To Class: ClassName=mainboard Member=Component C11 100n
+Added Member To Class: ClassName=mainboard Member=Component C12 100n
+Added Member To Class: ClassName=mainboard Member=Component C13 100n
+Added Member To Class: ClassName=mainboard Member=Component CB 100n
+Added Member To Class: ClassName=mainboard Member=Component CE1 100n
+Added Member To Class: ClassName=mainboard Member=Component CE2 100n
+Added Member To Class: ClassName=mainboard Member=Component CF 56p
+Added Member To Class: ClassName=mainboard Member=Component CIN1 10u (16V)
+Added Member To Class: ClassName=mainboard Member=Component CIN2 100n
+Added Member To Class: ClassName=mainboard Member=Component CO1 10p
+Added Member To Class: ClassName=mainboard Member=Component CO2 10p
+Add Class Member: Failed to add class member : Component COM PINHD-1X8
+Added Member To Class: ClassName=mainboard Member=Component CP1 22u (3V3)
+Added Member To Class: ClassName=mainboard Member=Component CP2 22u (3V3)
+Added Member To Class: ClassName=mainboard Member=Component CV 10nF
+Added Member To Class: ClassName=mainboard Member=Component DCDC TPS54202
+Added Member To Class: ClassName=mainboard Member=Component DF9-17S
+Added Member To Class: ClassName=mainboard Member=Component DF9-31P DF9-31S
+Added Member To Class: ClassName=mainboard Member=Component DF9-31S
+Added Member To Class: ClassName=mainboard Member=Component DP low Vf Schottky
+Added Member To Class: ClassName=mainboard Member=Component DV ( MM3Z3V3T1G )
+Added Member To Class: ClassName=mainboard Member=Component EEPROM 24AA025UID
+Add Class Member: Failed to add class member : Component H-B1-L 0
+Added Member To Class: ClassName=mainboard Member=Component L1 10u
+Added Member To Class: ClassName=mainboard Member=Component LD1 GREEN
+Added Member To Class: ClassName=mainboard Member=Component LD2 WHITE
+Added Member To Class: ClassName=mainboard Member=Component LD3 YELLOW
+Added Member To Class: ClassName=mainboard Member=Component LD4 RED
+Added Member To Class: ClassName=mainboard Member=Component LD5 ORANGE
+Added Member To Class: ClassName=mainboard Member=Component LDP BLUE
+Added Member To Class: ClassName=mainboard Member=Component MCU STM32F446RE_LQFP64
+Add Class Member: Failed to add class member : Component PE TPSQTP06SQ
+Add Class Member: Failed to add class member : Component PRG TL3780
+Add Class Member: Failed to add class member : Component PWR PINHD-1X2
+Added Member To Class: ClassName=mainboard Member=Component Q1 TSX-3225
+Added Member To Class: ClassName=mainboard Member=Component R1 15k
+Added Member To Class: ClassName=mainboard Member=Component R2 3k3
+Added Member To Class: ClassName=mainboard Member=Component R3 1k8
+Added Member To Class: ClassName=mainboard Member=Component R4 1k8
+Added Member To Class: ClassName=mainboard Member=Component R5 1k8
+Added Member To Class: ClassName=mainboard Member=Component R10 1k
+Added Member To Class: ClassName=mainboard Member=Component R11 1k
+Added Member To Class: ClassName=mainboard Member=Component R12 1k
+Added Member To Class: ClassName=mainboard Member=Component R50 1k
+Added Member To Class: ClassName=mainboard Member=Component R51 100k
+Added Member To Class: ClassName=mainboard Member=Component R52 1k
+Added Member To Class: ClassName=mainboard Member=Component R53 100k
+Added Member To Class: ClassName=mainboard Member=Component R54 ( 1k )
+Added Member To Class: ClassName=mainboard Member=Component R55 ( 100k )
+Added Member To Class: ClassName=mainboard Member=Component R56 470
+Added Member To Class: ClassName=mainboard Member=Component R57 470
+Added Member To Class: ClassName=mainboard Member=Component R58 470
+Added Member To Class: ClassName=mainboard Member=Component R59 100k
+Added Member To Class: ClassName=mainboard Member=Component R60 330
+Added Member To Class: ClassName=mainboard Member=Component R61 4k7
+Added Member To Class: ClassName=mainboard Member=Component R62 330
+Added Member To Class: ClassName=mainboard Member=Component R63 4k7
+Added Member To Class: ClassName=mainboard Member=Component R70 470
+Added Member To Class: ClassName=mainboard Member=Component R71 470
+Added Member To Class: ClassName=mainboard Member=Component R80 1k
+Added Member To Class: ClassName=mainboard Member=Component R81A ( 100k )
+Added Member To Class: ClassName=mainboard Member=Component R81B ( 100k )
+Added Member To Class: ClassName=mainboard Member=Component R82 1k
+Added Member To Class: ClassName=mainboard Member=Component R90 1k
+Added Member To Class: ClassName=mainboard Member=Component R91 1k
+Added Member To Class: ClassName=mainboard Member=Component R92 1k
+Added Member To Class: ClassName=mainboard Member=Component R93 1k
+Add Class Member: Failed to add class member : Component R? 0次 (0R0) ㊣1%
+Add Class Member: Failed to add class member : Component R? 0次 (0R0) ㊣1%
+Add Class Member: Failed to add class member : Component R? 0次 (0R0) ㊣1%
+Add Class Member: Failed to add class member : Component R? 0次 (0R0) ㊣1%
+Add Class Member: Failed to add class member : Component R? 0次 (0R0) ㊣1%
+Add Class Member: Failed to add class member : Component R? 0次 (0R0) ㊣1%
+Added Member To Class: ClassName=mainboard Member=Component RB0 10k
+Added Member To Class: ClassName=mainboard Member=Component RD1 22k
+Added Member To Class: ClassName=mainboard Member=Component RD2 100k
+Added Member To Class: ClassName=mainboard Member=Component RISO 10M
+Add Class Member: Failed to add class member : Component RP 33k
+Added Member To Class: ClassName=mainboard Member=Component RV1 22k
+Added Member To Class: ClassName=mainboard Member=Component RV2 100k
+Added Member To Class: ClassName=mainboard Member=Component SISO_CTRL ISO7021F
+Added Member To Class: ClassName=mainboard Member=Component SISO_UART ISO7021
+Add Class Member: Failed to add class member : Component U$1 NR_FIELD
+Add Class Member: Failed to add class member : Component U$2 GND_MERGE

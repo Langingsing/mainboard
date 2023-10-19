@@ -1,0 +1,532 @@
+Add Component: Footprint Not Found AHOI_LOGO_8MMHEIGHT
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0805
+Add Component: Footprint Not Found 0805
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0805
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0805
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 1X08
+Add Component: Footprint Not Found 0805
+Add Component: Footprint Not Found 0805
+Add Component: Footprint Not Found 0603
+Added Component: Designator=D?(SOT-23(SOT-23-3))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_70091.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C68978"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT-23-THIN
+Add Component: Footprint Not Found DF9-17S
+Add Component: Footprint Not Found DF9-31S
+Add Component: Footprint Not Found DF9-31S
+Add Component: Footprint Not Found DO-214AC
+Add Component: Footprint Not Found SOD323
+Add Component: Footprint Not Found SOT23-6
+Add Component: Footprint Not Found JMP_OR_0603
+Add Component: Footprint Not Found VLCF5028-2
+Add Component: Footprint Not Found LED0603
+Add Component: Footprint Not Found LED0603
+Add Component: Footprint Not Found LED0603
+Add Component: Footprint Not Found LED0603
+Add Component: Footprint Not Found LED0603
+Add Component: Footprint Not Found LED0603
+Add Component: Footprint Not Found LQFP64
+Add Component: Footprint Not Found TP06SQ
+Add Component: Footprint Not Found TL3780
+Add Component: Footprint Not Found 1X02
+Add Component: Footprint Not Found 3.2X2.5_KX-7
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found JMP_OR_0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found SO8
+Add Component: Footprint Not Found SO8
+Add Component: Footprint Not Found NR_FIELD
+Add Component: Footprint Not Found GND_MERGE
+Added Component: Designator=U?(SMD-8_6.3mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_17110.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-8_6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C16428"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin CB-1
+Add Pin To Net: Unknown Pin: Pin CB-2
+Add Pin To Net: Unknown Pin: Pin CE1-1
+Add Pin To Net: Unknown Pin: Pin CE1-2
+Add Pin To Net: Unknown Pin: Pin CE2-1
+Add Pin To Net: Unknown Pin: Pin CE2-2
+Add Pin To Net: Unknown Pin: Pin CF-1
+Add Pin To Net: Unknown Pin: Pin CF-2
+Add Pin To Net: Unknown Pin: Pin CIN1-1
+Add Pin To Net: Unknown Pin: Pin CIN1-2
+Add Pin To Net: Unknown Pin: Pin CIN2-1
+Add Pin To Net: Unknown Pin: Pin CIN2-2
+Add Pin To Net: Unknown Pin: Pin CO1-1
+Add Pin To Net: Unknown Pin: Pin CO1-2
+Add Pin To Net: Unknown Pin: Pin CO2-1
+Add Pin To Net: Unknown Pin: Pin CO2-2
+Add Pin To Net: Unknown Pin: Pin COM-1
+Add Pin To Net: Unknown Pin: Pin COM-2
+Add Pin To Net: Unknown Pin: Pin COM-3
+Add Pin To Net: Unknown Pin: Pin COM-4
+Add Pin To Net: Unknown Pin: Pin COM-5
+Add Pin To Net: Unknown Pin: Pin COM-6
+Add Pin To Net: Unknown Pin: Pin COM-7
+Add Pin To Net: Unknown Pin: Pin COM-8
+Add Pin To Net: Unknown Pin: Pin CP1-1
+Add Pin To Net: Unknown Pin: Pin CP1-2
+Add Pin To Net: Unknown Pin: Pin CP2-1
+Add Pin To Net: Unknown Pin: Pin CP2-2
+Add Pin To Net: Unknown Pin: Pin CV-1
+Add Pin To Net: Unknown Pin: Pin CV-2
+Add Pin To Net: Unknown Pin: Pin DCDC-1
+Add Pin To Net: Unknown Pin: Pin DCDC-2
+Add Pin To Net: Unknown Pin: Pin DCDC-3
+Add Pin To Net: Unknown Pin: Pin DCDC-4
+Add Pin To Net: Unknown Pin: Pin DCDC-5
+Add Pin To Net: Unknown Pin: Pin DCDC-6
+Add Pin To Net: Unknown Pin: Pin DF9-17S-1
+Add Pin To Net: Unknown Pin: Pin DF9-17S-2
+Add Pin To Net: Unknown Pin: Pin DF9-17S-3
+Add Pin To Net: Unknown Pin: Pin DF9-17S-4
+Add Pin To Net: Unknown Pin: Pin DF9-17S-5
+Add Pin To Net: Unknown Pin: Pin DF9-17S-6
+Add Pin To Net: Unknown Pin: Pin DF9-17S-7
+Add Pin To Net: Unknown Pin: Pin DF9-17S-8
+Add Pin To Net: Unknown Pin: Pin DF9-17S-9
+Add Pin To Net: Unknown Pin: Pin DF9-17S-10
+Add Pin To Net: Unknown Pin: Pin DF9-17S-11
+Add Pin To Net: Unknown Pin: Pin DF9-17S-12
+Add Pin To Net: Unknown Pin: Pin DF9-17S-13
+Add Pin To Net: Unknown Pin: Pin DF9-17S-14
+Add Pin To Net: Unknown Pin: Pin DF9-17S-15
+Add Pin To Net: Unknown Pin: Pin DF9-17S-16
+Add Pin To Net: Unknown Pin: Pin DF9-17S-17
+Add Pin To Net: Unknown Pin: Pin DF9-31P-1
+Add Pin To Net: Unknown Pin: Pin DF9-31P-2
+Add Pin To Net: Unknown Pin: Pin DF9-31P-3
+Add Pin To Net: Unknown Pin: Pin DF9-31P-4
+Add Pin To Net: Unknown Pin: Pin DF9-31P-5
+Add Pin To Net: Unknown Pin: Pin DF9-31P-6
+Add Pin To Net: Unknown Pin: Pin DF9-31P-7
+Add Pin To Net: Unknown Pin: Pin DF9-31P-8
+Add Pin To Net: Unknown Pin: Pin DF9-31P-9
+Add Pin To Net: Unknown Pin: Pin DF9-31P-10
+Add Pin To Net: Unknown Pin: Pin DF9-31P-11
+Add Pin To Net: Unknown Pin: Pin DF9-31P-12
+Add Pin To Net: Unknown Pin: Pin DF9-31P-13
+Add Pin To Net: Unknown Pin: Pin DF9-31P-14
+Add Pin To Net: Unknown Pin: Pin DF9-31P-15
+Add Pin To Net: Unknown Pin: Pin DF9-31P-16
+Add Pin To Net: Unknown Pin: Pin DF9-31P-17
+Add Pin To Net: Unknown Pin: Pin DF9-31P-18
+Add Pin To Net: Unknown Pin: Pin DF9-31P-19
+Add Pin To Net: Unknown Pin: Pin DF9-31P-20
+Add Pin To Net: Unknown Pin: Pin DF9-31P-21
+Add Pin To Net: Unknown Pin: Pin DF9-31P-22
+Add Pin To Net: Unknown Pin: Pin DF9-31P-23
+Add Pin To Net: Unknown Pin: Pin DF9-31P-24
+Add Pin To Net: Unknown Pin: Pin DF9-31P-25
+Add Pin To Net: Unknown Pin: Pin DF9-31P-26
+Add Pin To Net: Unknown Pin: Pin DF9-31P-27
+Add Pin To Net: Unknown Pin: Pin DF9-31P-28
+Add Pin To Net: Unknown Pin: Pin DF9-31P-29
+Add Pin To Net: Unknown Pin: Pin DF9-31P-30
+Add Pin To Net: Unknown Pin: Pin DF9-31P-31
+Add Pin To Net: Unknown Pin: Pin DF9-31S-1
+Add Pin To Net: Unknown Pin: Pin DF9-31S-2
+Add Pin To Net: Unknown Pin: Pin DF9-31S-3
+Add Pin To Net: Unknown Pin: Pin DF9-31S-4
+Add Pin To Net: Unknown Pin: Pin DF9-31S-5
+Add Pin To Net: Unknown Pin: Pin DF9-31S-6
+Add Pin To Net: Unknown Pin: Pin DF9-31S-7
+Add Pin To Net: Unknown Pin: Pin DF9-31S-8
+Add Pin To Net: Unknown Pin: Pin DF9-31S-9
+Add Pin To Net: Unknown Pin: Pin DF9-31S-10
+Add Pin To Net: Unknown Pin: Pin DF9-31S-11
+Add Pin To Net: Unknown Pin: Pin DF9-31S-12
+Add Pin To Net: Unknown Pin: Pin DF9-31S-13
+Add Pin To Net: Unknown Pin: Pin DF9-31S-14
+Add Pin To Net: Unknown Pin: Pin DF9-31S-15
+Add Pin To Net: Unknown Pin: Pin DF9-31S-16
+Add Pin To Net: Unknown Pin: Pin DF9-31S-17
+Add Pin To Net: Unknown Pin: Pin DF9-31S-18
+Add Pin To Net: Unknown Pin: Pin DF9-31S-19
+Add Pin To Net: Unknown Pin: Pin DF9-31S-20
+Add Pin To Net: Unknown Pin: Pin DF9-31S-21
+Add Pin To Net: Unknown Pin: Pin DF9-31S-22
+Add Pin To Net: Unknown Pin: Pin DF9-31S-23
+Add Pin To Net: Unknown Pin: Pin DF9-31S-24
+Add Pin To Net: Unknown Pin: Pin DF9-31S-25
+Add Pin To Net: Unknown Pin: Pin DF9-31S-26
+Add Pin To Net: Unknown Pin: Pin DF9-31S-27
+Add Pin To Net: Unknown Pin: Pin DF9-31S-28
+Add Pin To Net: Unknown Pin: Pin DF9-31S-29
+Add Pin To Net: Unknown Pin: Pin DF9-31S-30
+Add Pin To Net: Unknown Pin: Pin DF9-31S-31
+Add Pin To Net: Unknown Pin: Pin DP-A
+Add Pin To Net: Unknown Pin: Pin DP-C
+Add Pin To Net: Unknown Pin: Pin DV-1
+Add Pin To Net: Unknown Pin: Pin DV-2
+Add Pin To Net: Unknown Pin: Pin EEPROM-1
+Add Pin To Net: Unknown Pin: Pin EEPROM-2
+Add Pin To Net: Unknown Pin: Pin EEPROM-4
+Add Pin To Net: Unknown Pin: Pin EEPROM-5
+Add Pin To Net: Unknown Pin: Pin EEPROM-6
+Add Pin To Net: Unknown Pin: Pin H-B1-L-1
+Add Pin To Net: Unknown Pin: Pin H-B1-L-2
+Add Pin To Net: Unknown Pin: Pin H-B1-L-3
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin LD1-1
+Add Pin To Net: Unknown Pin: Pin LD1-2
+Add Pin To Net: Unknown Pin: Pin LD2-1
+Add Pin To Net: Unknown Pin: Pin LD2-2
+Add Pin To Net: Unknown Pin: Pin LD3-1
+Add Pin To Net: Unknown Pin: Pin LD3-2
+Add Pin To Net: Unknown Pin: Pin LD4-1
+Add Pin To Net: Unknown Pin: Pin LD4-2
+Add Pin To Net: Unknown Pin: Pin LD5-1
+Add Pin To Net: Unknown Pin: Pin LD5-2
+Add Pin To Net: Unknown Pin: Pin LDP-1
+Add Pin To Net: Unknown Pin: Pin LDP-2
+Add Pin To Net: Unknown Pin: Pin MCU-31
+Add Pin To Net: Unknown Pin: Pin MCU-32
+Add Pin To Net: Unknown Pin: Pin MCU-47
+Add Pin To Net: Unknown Pin: Pin MCU-48
+Add Pin To Net: Unknown Pin: Pin MCU-63
+Add Pin To Net: Unknown Pin: Pin MCU-64
+Add Pin To Net: Unknown Pin: Pin MCU-P$1
+Add Pin To Net: Unknown Pin: Pin MCU-P$2
+Add Pin To Net: Unknown Pin: Pin MCU-P$3
+Add Pin To Net: Unknown Pin: Pin MCU-P$4
+Add Pin To Net: Unknown Pin: Pin MCU-P$5
+Add Pin To Net: Unknown Pin: Pin MCU-P$6
+Add Pin To Net: Unknown Pin: Pin MCU-P$7
+Add Pin To Net: Unknown Pin: Pin MCU-P$8
+Add Pin To Net: Unknown Pin: Pin MCU-P$9
+Add Pin To Net: Unknown Pin: Pin MCU-P$10
+Add Pin To Net: Unknown Pin: Pin MCU-P$11
+Add Pin To Net: Unknown Pin: Pin MCU-P$12
+Add Pin To Net: Unknown Pin: Pin MCU-P$13
+Add Pin To Net: Unknown Pin: Pin MCU-P$14
+Add Pin To Net: Unknown Pin: Pin MCU-P$15
+Add Pin To Net: Unknown Pin: Pin MCU-P$16
+Add Pin To Net: Unknown Pin: Pin MCU-P$17
+Add Pin To Net: Unknown Pin: Pin MCU-P$18
+Add Pin To Net: Unknown Pin: Pin MCU-P$19
+Add Pin To Net: Unknown Pin: Pin MCU-P$20
+Add Pin To Net: Unknown Pin: Pin MCU-P$21
+Add Pin To Net: Unknown Pin: Pin MCU-P$22
+Add Pin To Net: Unknown Pin: Pin MCU-P$23
+Add Pin To Net: Unknown Pin: Pin MCU-P$24
+Add Pin To Net: Unknown Pin: Pin MCU-P$25
+Add Pin To Net: Unknown Pin: Pin MCU-P$26
+Add Pin To Net: Unknown Pin: Pin MCU-P$27
+Add Pin To Net: Unknown Pin: Pin MCU-P$28
+Add Pin To Net: Unknown Pin: Pin MCU-P$29
+Add Pin To Net: Unknown Pin: Pin MCU-P$30
+Add Pin To Net: Unknown Pin: Pin MCU-P$33
+Add Pin To Net: Unknown Pin: Pin MCU-P$34
+Add Pin To Net: Unknown Pin: Pin MCU-P$35
+Add Pin To Net: Unknown Pin: Pin MCU-P$36
+Add Pin To Net: Unknown Pin: Pin MCU-P$37
+Add Pin To Net: Unknown Pin: Pin MCU-P$38
+Add Pin To Net: Unknown Pin: Pin MCU-P$39
+Add Pin To Net: Unknown Pin: Pin MCU-P$40
+Add Pin To Net: Unknown Pin: Pin MCU-P$41
+Add Pin To Net: Unknown Pin: Pin MCU-P$42
+Add Pin To Net: Unknown Pin: Pin MCU-P$43
+Add Pin To Net: Unknown Pin: Pin MCU-P$44
+Add Pin To Net: Unknown Pin: Pin MCU-P$45
+Add Pin To Net: Unknown Pin: Pin MCU-P$46
+Add Pin To Net: Unknown Pin: Pin MCU-P$49
+Add Pin To Net: Unknown Pin: Pin MCU-P$51
+Add Pin To Net: Unknown Pin: Pin MCU-P$52
+Add Pin To Net: Unknown Pin: Pin MCU-P$55
+Add Pin To Net: Unknown Pin: Pin MCU-P$57
+Add Pin To Net: Unknown Pin: Pin MCU-P$58
+Add Pin To Net: Unknown Pin: Pin MCU-P$59
+Add Pin To Net: Unknown Pin: Pin MCU-P$60
+Add Pin To Net: Unknown Pin: Pin MCU-P$61
+Add Pin To Net: Unknown Pin: Pin MCU-P$62
+Add Pin To Net: Unknown Pin: Pin PE-TP
+Add Pin To Net: Unknown Pin: Pin PRG-P$1
+Add Pin To Net: Unknown Pin: Pin PRG-P$2
+Add Pin To Net: Unknown Pin: Pin PWR-1
+Add Pin To Net: Unknown Pin: Pin PWR-2
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q1-4
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R50-1
+Add Pin To Net: Unknown Pin: Pin R50-2
+Add Pin To Net: Unknown Pin: Pin R51-1
+Add Pin To Net: Unknown Pin: Pin R51-2
+Add Pin To Net: Unknown Pin: Pin R52-1
+Add Pin To Net: Unknown Pin: Pin R52-2
+Add Pin To Net: Unknown Pin: Pin R53-1
+Add Pin To Net: Unknown Pin: Pin R53-2
+Add Pin To Net: Unknown Pin: Pin R54-1
+Add Pin To Net: Unknown Pin: Pin R54-2
+Add Pin To Net: Unknown Pin: Pin R55-1
+Add Pin To Net: Unknown Pin: Pin R55-2
+Add Pin To Net: Unknown Pin: Pin R56-1
+Add Pin To Net: Unknown Pin: Pin R56-2
+Add Pin To Net: Unknown Pin: Pin R57-1
+Add Pin To Net: Unknown Pin: Pin R57-2
+Add Pin To Net: Unknown Pin: Pin R58-1
+Add Pin To Net: Unknown Pin: Pin R58-2
+Add Pin To Net: Unknown Pin: Pin R59-1
+Add Pin To Net: Unknown Pin: Pin R59-2
+Add Pin To Net: Unknown Pin: Pin R60-1
+Add Pin To Net: Unknown Pin: Pin R60-2
+Add Pin To Net: Unknown Pin: Pin R61-1
+Add Pin To Net: Unknown Pin: Pin R61-2
+Add Pin To Net: Unknown Pin: Pin R62-1
+Add Pin To Net: Unknown Pin: Pin R62-2
+Add Pin To Net: Unknown Pin: Pin R63-1
+Add Pin To Net: Unknown Pin: Pin R63-2
+Add Pin To Net: Unknown Pin: Pin R70-1
+Add Pin To Net: Unknown Pin: Pin R70-2
+Add Pin To Net: Unknown Pin: Pin R71-1
+Add Pin To Net: Unknown Pin: Pin R71-2
+Add Pin To Net: Unknown Pin: Pin R80-1
+Add Pin To Net: Unknown Pin: Pin R80-2
+Add Pin To Net: Unknown Pin: Pin R81A-1
+Add Pin To Net: Unknown Pin: Pin R81A-2
+Add Pin To Net: Unknown Pin: Pin R81B-1
+Add Pin To Net: Unknown Pin: Pin R81B-2
+Add Pin To Net: Unknown Pin: Pin R82-1
+Add Pin To Net: Unknown Pin: Pin R82-2
+Add Pin To Net: Unknown Pin: Pin R90-1
+Add Pin To Net: Unknown Pin: Pin R90-2
+Add Pin To Net: Unknown Pin: Pin R91-1
+Add Pin To Net: Unknown Pin: Pin R91-2
+Add Pin To Net: Unknown Pin: Pin R92-1
+Add Pin To Net: Unknown Pin: Pin R92-2
+Add Pin To Net: Unknown Pin: Pin R93-1
+Add Pin To Net: Unknown Pin: Pin R93-2
+Add Pin To Net: Unknown Pin: Pin RB0-1
+Add Pin To Net: Unknown Pin: Pin RB0-2
+Add Pin To Net: Unknown Pin: Pin RD1-1
+Add Pin To Net: Unknown Pin: Pin RD1-2
+Add Pin To Net: Unknown Pin: Pin RD2-1
+Add Pin To Net: Unknown Pin: Pin RD2-2
+Add Pin To Net: Unknown Pin: Pin RISO-1
+Add Pin To Net: Unknown Pin: Pin RISO-2
+Add Pin To Net: Unknown Pin: Pin RP-1
+Add Pin To Net: Unknown Pin: Pin RP-2
+Add Pin To Net: Unknown Pin: Pin RP-3
+Add Pin To Net: Unknown Pin: Pin RV1-1
+Add Pin To Net: Unknown Pin: Pin RV1-2
+Add Pin To Net: Unknown Pin: Pin RV2-1
+Add Pin To Net: Unknown Pin: Pin RV2-2
+Add Pin To Net: Unknown Pin: Pin SISO_CTRL-1
+Add Pin To Net: Unknown Pin: Pin SISO_CTRL-2
+Add Pin To Net: Unknown Pin: Pin SISO_CTRL-3
+Add Pin To Net: Unknown Pin: Pin SISO_CTRL-4
+Add Pin To Net: Unknown Pin: Pin SISO_CTRL-5
+Add Pin To Net: Unknown Pin: Pin SISO_CTRL-6
+Add Pin To Net: Unknown Pin: Pin SISO_CTRL-7
+Add Pin To Net: Unknown Pin: Pin SISO_CTRL-8
+Add Pin To Net: Unknown Pin: Pin SISO_UART-1
+Add Pin To Net: Unknown Pin: Pin SISO_UART-2
+Add Pin To Net: Unknown Pin: Pin SISO_UART-3
+Add Pin To Net: Unknown Pin: Pin SISO_UART-4
+Add Pin To Net: Unknown Pin: Pin SISO_UART-5
+Add Pin To Net: Unknown Pin: Pin SISO_UART-6
+Add Pin To Net: Unknown Pin: Pin SISO_UART-7
+Add Pin To Net: Unknown Pin: Pin SISO_UART-8
+Add Pin To Net: Unknown Pin: Pin U$2-P$1
+Add Pin To Net: Unknown Pin: Pin U$2-P$2
+Add Class Member: Failed to add class member : Component AHOI.MB v7.0
+Add Class Member: Failed to add class member : Component C1 100n
+Add Class Member: Failed to add class member : Component C2 100n
+Add Class Member: Failed to add class member : Component C3 100n
+Add Class Member: Failed to add class member : Component C4 100n
+Add Class Member: Failed to add class member : Component C5 100n
+Add Class Member: Failed to add class member : Component C6 4u7 (3V3)
+Add Class Member: Failed to add class member : Component C7 1u (3V3)
+Add Class Member: Failed to add class member : Component C8 100n
+Add Class Member: Failed to add class member : Component C9 4u7 (3V3)
+Add Class Member: Failed to add class member : Component C10 100n
+Add Class Member: Failed to add class member : Component C11 100n
+Add Class Member: Failed to add class member : Component C12 100n
+Add Class Member: Failed to add class member : Component C13 100n
+Add Class Member: Failed to add class member : Component CB 100n
+Add Class Member: Failed to add class member : Component CE1 100n
+Add Class Member: Failed to add class member : Component CE2 100n
+Add Class Member: Failed to add class member : Component CF 56p
+Add Class Member: Failed to add class member : Component CIN1 10u (16V)
+Add Class Member: Failed to add class member : Component CIN2 100n
+Add Class Member: Failed to add class member : Component CO1 10p
+Add Class Member: Failed to add class member : Component CO2 10p
+Add Class Member: Failed to add class member : Component COM PINHD-1X8
+Add Class Member: Failed to add class member : Component CP1 22u (3V3)
+Add Class Member: Failed to add class member : Component CP2 22u (3V3)
+Add Class Member: Failed to add class member : Component CV 10nF
+Added Member To Class: ClassName=mainboard Member=Component D? BAV70 A4
+Add Class Member: Failed to add class member : Component DCDC TPS54202
+Add Class Member: Failed to add class member : Component DF9-17S
+Add Class Member: Failed to add class member : Component DF9-31P DF9-31S
+Add Class Member: Failed to add class member : Component DF9-31S
+Add Class Member: Failed to add class member : Component DP low Vf Schottky
+Add Class Member: Failed to add class member : Component DV ( MM3Z3V3T1G )
+Add Class Member: Failed to add class member : Component EEPROM 24AA025UID
+Add Class Member: Failed to add class member : Component H-B1-L 0
+Add Class Member: Failed to add class member : Component L1 10u
+Add Class Member: Failed to add class member : Component LD1 GREEN
+Add Class Member: Failed to add class member : Component LD2 WHITE
+Add Class Member: Failed to add class member : Component LD3 YELLOW
+Add Class Member: Failed to add class member : Component LD4 RED
+Add Class Member: Failed to add class member : Component LD5 ORANGE
+Add Class Member: Failed to add class member : Component LDP BLUE
+Add Class Member: Failed to add class member : Component MCU STM32F446RE_LQFP64
+Add Class Member: Failed to add class member : Component PE TPSQTP06SQ
+Add Class Member: Failed to add class member : Component PRG TL3780
+Add Class Member: Failed to add class member : Component PWR PINHD-1X2
+Add Class Member: Failed to add class member : Component Q1 TSX-3225
+Add Class Member: Failed to add class member : Component R1 15k
+Add Class Member: Failed to add class member : Component R2 3k3
+Add Class Member: Failed to add class member : Component R3 1k8
+Add Class Member: Failed to add class member : Component R4 1k8
+Add Class Member: Failed to add class member : Component R5 1k8
+Add Class Member: Failed to add class member : Component R10 1k
+Add Class Member: Failed to add class member : Component R11 1k
+Add Class Member: Failed to add class member : Component R12 1k
+Add Class Member: Failed to add class member : Component R50 1k
+Add Class Member: Failed to add class member : Component R51 100k
+Add Class Member: Failed to add class member : Component R52 1k
+Add Class Member: Failed to add class member : Component R53 100k
+Add Class Member: Failed to add class member : Component R54 ( 1k )
+Add Class Member: Failed to add class member : Component R55 ( 100k )
+Add Class Member: Failed to add class member : Component R56 470
+Add Class Member: Failed to add class member : Component R57 470
+Add Class Member: Failed to add class member : Component R58 470
+Add Class Member: Failed to add class member : Component R59 100k
+Add Class Member: Failed to add class member : Component R60 330
+Add Class Member: Failed to add class member : Component R61 4k7
+Add Class Member: Failed to add class member : Component R62 330
+Add Class Member: Failed to add class member : Component R63 4k7
+Add Class Member: Failed to add class member : Component R70 470
+Add Class Member: Failed to add class member : Component R71 470
+Add Class Member: Failed to add class member : Component R80 1k
+Add Class Member: Failed to add class member : Component R81A ( 100k )
+Add Class Member: Failed to add class member : Component R81B ( 100k )
+Add Class Member: Failed to add class member : Component R82 1k
+Add Class Member: Failed to add class member : Component R90 1k
+Add Class Member: Failed to add class member : Component R91 1k
+Add Class Member: Failed to add class member : Component R92 1k
+Add Class Member: Failed to add class member : Component R93 1k
+Added Member To Class: ClassName=mainboard Member=Component R? 0Ω (0R0) ±1%
+Added Member To Class: ClassName=mainboard Member=Component R? 0Ω (0R0) ±1%
+Added Member To Class: ClassName=mainboard Member=Component R? 0Ω (0R0) ±1%
+Added Member To Class: ClassName=mainboard Member=Component R? 0Ω (0R0) ±1%
+Added Member To Class: ClassName=mainboard Member=Component R? 0Ω (0R0) ±1%
+Add Class Member: Failed to add class member : Component RB0 10k
+Add Class Member: Failed to add class member : Component RD1 22k
+Add Class Member: Failed to add class member : Component RD2 100k
+Add Class Member: Failed to add class member : Component RISO 10M
+Add Class Member: Failed to add class member : Component RP 33k
+Add Class Member: Failed to add class member : Component RV1 22k
+Add Class Member: Failed to add class member : Component RV2 100k
+Add Class Member: Failed to add class member : Component SISO_CTRL ISO7021F
+Add Class Member: Failed to add class member : Component SISO_UART ISO7021
+Add Class Member: Failed to add class member : Component U$1 NR_FIELD
+Add Class Member: Failed to add class member : Component U$2 GND_MERGE
+Added Member To Class: ClassName=mainboard Member=Component U? ISO1050DUBR
